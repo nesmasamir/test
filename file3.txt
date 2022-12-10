@@ -3,3 +3,4 @@ second  line in file 3
 third  line in file 3
 fourth  line in file 3
 fifth  line in file 3
+sixth
